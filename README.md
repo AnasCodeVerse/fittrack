@@ -110,7 +110,7 @@ assets/
 
 ## Screenshots
 
-_assests/Sreenshots_
+_assets/Sreenshots_
 
 ## Development Notes
 
