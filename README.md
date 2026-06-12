@@ -110,7 +110,7 @@ assets/
 
 ## Screenshots
 
-_To add: Home screen, Gym workout flow, EMOM runner, History view, Sleep chart_
+_assests/Sreenshots_
 
 ## Development Notes
 
