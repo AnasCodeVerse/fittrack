@@ -110,7 +110,18 @@ assets/
 
 ## Screenshots
 
-_assets/Sreenshots_
+<p>
+<img src="assets/Screenshots/home.jpeg" width="200" alt="home">
+<img src="assets/Screenshots/Workout-%20Gym.jpeg" width="200" alt="Workout- Gym">
+<img src="assets/Screenshots/Workout-%20Home.jpeg" width="200" alt="Workout- Home">
+<img src="assets/Screenshots/EMOM%20counter.jpeg" width="200" alt="EMOM counter">
+</p>
+<p>
+<img src="assets/Screenshots/bodyweight%20tracking.jpeg" width="200" alt="bodyweight tracking">
+<img src="assets/Screenshots/sleep%20tracking.jpeg" width="200" alt="sleep tracking">
+<img src="assets/Screenshots/notes.jpeg" width="200" alt="notes">
+<img src="assets/Screenshots/settings.jpeg" width="200" alt="settings">
+</p>
 
 ## Development Notes
 
@@ -120,7 +131,6 @@ Built iteratively across multiple phases:
 2. **Phase 2** — Legs added, Gym/Home toggle, home bodyweight exercises, stopwatch sessions (Plank, Rope Skipping), EMOM workouts with saveable templates
 3. **Phase 3** — Audio cues for EMOM (`audioplayers` + bundled WAV beeps)
 
-This project was built with the help of Claude (Anthropic) for architecture planning, schema design, and iterative feature scoping. All product decisions, testing on-device (Xiaomi MIUI), and final implementation choices were made by me.
 
 ## License
 

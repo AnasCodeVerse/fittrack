@@ -18,6 +18,9 @@ migrate_working_dir/
 *.iws
 .idea/
 
+# VS Code related
+.vscode/
+
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
 # is commented out by default.
@@ -32,6 +35,7 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+/.fvm/
 
 # Symbolication related
 app.*.symbols
@@ -43,3 +47,39 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Generated plugin registrants
+/android/app/src/main/java/io/flutter/plugins/
+/ios/Flutter/Generated.xcconfig
+/ios/Runner/GeneratedPluginRegistrant.*
+
+# Local environment / secrets
+.env
+*.keystore
+*.jks
+key.properties
+android/key.properties
+
+# Build outputs
+*.apk
+*.aab
+*.ipa
+
+# Databases (local dev artifacts)
+*.db
+*.sqlite
+*.sqlite3
+
+# User-specific data backups
+backups/
+exports/
+
+# macOS
+.DS_Store
+
+# Coverage
+/coverage/
+
+# Local data
+local.properties
+.metadata
